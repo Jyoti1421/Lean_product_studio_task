@@ -39,7 +39,7 @@ class JobListPage extends StatelessWidget {
               itemBuilder: (context, index) {
                 final job = state.jobs[index];
                 final isSaved = state.saved.contains(job.id);
-
+            
                 return InkWell(
                   borderRadius: BorderRadius.circular(16),
                   onTap: () {
