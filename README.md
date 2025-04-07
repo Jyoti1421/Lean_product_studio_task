@@ -29,7 +29,7 @@ A modern Flutter app to browse, save, and view job listings with a clean archite
 - [dio](https://pub.dev/packages/dio)
 - [shared_preferences](https://pub.dev/packages/shared_preferences)
 - [freezed](https://pub.dev/packages/freezed)
-- [flutter_svg](https://pub.dev/packages/flutter_svg) (optional)
+
 
 ---
 
